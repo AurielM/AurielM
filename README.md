@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AurielM
 - 👀 I’m interested in python inclusive of artificial intelligence (more the bridge between programming and psychological thought patterns as opposed to robotics where the programs are brought into the physical realm) and web automation (I haven't come across a type of automation that I don't appreciate and value)
-- 🌱 I’m currently learning python.
 - 💞️ I’m open to collaborations.
 - 📫 How to reach me ... to be decided
